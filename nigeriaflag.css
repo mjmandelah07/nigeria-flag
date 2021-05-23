@@ -1,0 +1,21 @@
+.flag-container {
+    width: 70%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid gray;
+
+}
+
+.flag-green {
+    background-color: green;
+}
+
+.flag-white {
+    background-color: white;
+}
+
+.flag {
+    height: 100%;
+    width: 33.3%;
+}
